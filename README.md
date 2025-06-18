@@ -37,26 +37,26 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%">
         <div align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikSapaliga&count_private=true&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github&bg_color=ffffff00" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nyknithin&count_private=true&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github&bg_color=ffffff00" alt="GitHub Stats" />
         </div>
     </td>
     <td width="50%">
         <div align="center">
-          <img src="https://streak-stats.demolab.com?user=KarthikSapaliga&theme=nightowl&hide_border=true&card_width=500&card_height=200&background=FFFFFF00" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=nyknithin&theme=nightowl&hide_border=true&card_width=500&card_height=200&background=FFFFFF00" alt="GitHub Streak" />
         </div>
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikSapaliga&radius=16&theme=nightowl&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph&bg_color=ffffff00" height="300" alt="activity-graph graph"  />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyknithin&radius=16&theme=nightowl&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph&bg_color=ffffff00" height="300" alt="activity-graph graph"  />
       </div>
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=KarthikSapaliga&theme=onedark&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=nyknithin&theme=onedark&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
     </td>
   </tr>

@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-<!--
-**nyknithin/nyknithin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -57,6 +43,7 @@ Here are some ideas to get you started:
     <td colspan="2">
       <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=nyknithin&theme=onedark&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+      </div>
     </td>
   </tr>
 </table>
